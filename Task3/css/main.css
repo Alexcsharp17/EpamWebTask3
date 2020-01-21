@@ -1,0 +1,45 @@
+#bod{
+	display: flex;
+	flex-wrap: wrap;
+}
+div
+.price{
+	color:green;
+	font-size: 50px;
+	background-color: red;
+	height: 500px;
+}
+.bar{
+	width: 20%;
+	margin-left: 4%;
+	margin-top: 10px;
+	
+}
+.pic{
+	margin-left: 50px;
+	background-image: url("../phone.jpg")  ;
+	height: 100px;
+	
+}
+.nam{
+	font-size: 20px;
+}
+.newUan{
+	color:red;
+}
+.namecont {
+	font-family: bold;
+	font-size: 20px;
+
+}
+.oldUan{
+	text-decoration: line-through;
+	color:grey;
+}
+.newUan{
+	color:red;
+	
+}
+.clrfix{
+	color:black;
+}
